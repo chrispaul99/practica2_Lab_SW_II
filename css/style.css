@@ -289,7 +289,7 @@ div#preloader {
     left: 0;
     width: 100%;
     height: auto;
-    background: rgba(0, 0, 0, 0.40);
+    background: rgb(45, 175, 207);
     z-index: 9;
 }
 
